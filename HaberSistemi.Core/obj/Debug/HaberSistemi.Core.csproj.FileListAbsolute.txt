@@ -1,0 +1,6 @@
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Core.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\bin\Debug\HaberSistemi.Core.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.csprojResolveAssemblyReference.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.csproj.CoreCompileInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Core\obj\Debug\HaberSistemi.Core.pdb

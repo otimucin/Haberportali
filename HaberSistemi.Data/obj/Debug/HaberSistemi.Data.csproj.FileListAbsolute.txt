@@ -1,0 +1,17 @@
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll.config
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\HaberSistemi.Data.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\Npgsql.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.xml
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\Npgsql.xml
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.Migrations.Oluştur.resources
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.GenerateResource.Cache
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csproj.CoreCompileInputs.cache
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.dll
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.pdb
+c:\users\otimucin\documents\visual studio 2017\Projects\HaberSistemi\HaberSistemi.Data\obj\Debug\HaberSistemi.Data.csprojResolveAssemblyReference.cache
